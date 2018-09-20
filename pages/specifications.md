@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Openschemas Specifications
-permalink: specifications
+permalink: specifications/
 ---
 <h1>{{ site.name }} Specifications</h1>
 

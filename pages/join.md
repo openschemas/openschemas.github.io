@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How To Join
-permalink: join
+permalink: join/
 ---
 
 <div itemscope itemtype="http://schema.org/Organization">

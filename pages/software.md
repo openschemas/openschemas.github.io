@@ -2,7 +2,7 @@
 redirect_from: "tools/"
 layout: default
 title: Software
-permalink: software
+permalink: software/
 ---
 
 <div>

@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: Draft Specifications 
-permalink: drafts
+permalink: drafts/
 ---
 
 <h1>Draft Specifications</h1>
