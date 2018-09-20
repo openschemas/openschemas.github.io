@@ -828,7 +828,6 @@ Small Device Styles
     }
     #twitter_banner:hover {
         background-color: rgb(28, 150, 202);
-        background-size: 35% 65%;
         text-decoration: none;
     }
     #twit_git_p {
