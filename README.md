@@ -1,9 +1,14 @@
 # OpenSchemas Site
 
-Hi friend! This site will be home of the Open Schemas specifications, and is under development.
-It is deployed using [Jekyll](https://jekyllrb.com/). 
+Hi friend! This site is the home of the Open Schemas specifications.
+It is deployed using [Jekyll](https://jekyllrb.com/) at [openschemas.github.io](https://openschemas.github.io)
 
 ![assets/images/logos/openschemas/logo_hexagon.png](assets/images/logos/openschemas/logo_hexagon.png)
+
+This repository is **not** where you contribute specification files that are rendered at 
+[openschemas.github.io/specifications](https://openschemas.github.io/specifications/). If you want to
+update or contribute a file, you want the [specifications repository](https://www.github.com/openschemas/specifications).
+This repository should be used to develop the base templating for the site.
 
 ## Geting Started
 

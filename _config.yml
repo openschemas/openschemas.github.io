@@ -30,18 +30,6 @@ plugins:
 
 # Collections
 collections:
-  specifications:
-    output: true
-    permalink: /:collection/:path/
-  devSpecs:
-    output: true
-    permalink: /:collection/:path/
-  types:
-    output: true
-    permalink: /:collection/:path/
-  devTypes:
-    output: true
-    permalink: /:collection/:path/
   people:
     output: true
     permalink: /:collection/:path/
