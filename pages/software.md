@@ -29,7 +29,7 @@ permalink: software/
     <br>
     <br>
     <blockquote>
-    <h6>Note:</h6>help us keep the above list updated: <a href="/howtojoin/">Join</a> the community and/or create a pull request on the <a href="{{ site.repo }}">{{ site.name }} github</a> community project.
+    <h6>Note:</h6>help us keep the above list updated: create a pull request on the <a href="{{ site.repo }}">{{ site.name }} github</a> community project.
     <p></p>
     </blockquote>
 </div>

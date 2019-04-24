@@ -26,7 +26,7 @@ layout: default
        adoption of schema.org markup within the life sciences.</p>
     <p>Bioschemas started as a community effort in November 2015. It operates as an open community initiative with more than
     <a href="/people/">200 people</a> from a wide variety of institutions. You are welcome to
-    <a href="/howtojoin/">join the community</a>.</p>
+    <a href="https://www.github.com/openschemas/">join the community on GitHub</a>.</p>
     <h2>Schema.org</h2>
     <p>Schema.org provides a way for us to add semantic markup to web pages. It describes ‘types’ of information, which then have
        ‘properties’. For example, ‘Event’ is a type that has properties like ‘startDate’, ‘endDate’ and ‘description’. If types
